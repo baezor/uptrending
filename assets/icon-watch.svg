@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="78px" viewBox="0 0 80 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 77.4164306 78.6473925 77.4164306 78.6473925 0 0 0"></polygon>
+    </defs>
+    <g id="Example---Home-Examples" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-example,-v2" transform="translate(-261.000000, -1276.000000)">
+            <g id="learn" transform="translate(80.000000, 921.000000)">
+                <g id="3-columns" transform="translate(0.000000, 161.000000)">
+                    <g id="1" transform="translate(0.000000, 24.000000)">
+                        <g id="icon" transform="translate(181.617729, 170.235127)">
+                            <path d="M77.418527,55.6430595 C77.418527,57.6462096 75.7669317,59.2719547 73.7319304,59.2719547 L27.0350412,59.2719547 L2.45773101,76.2067989 L1.22886551,76.2067989 L1.22886551,4.83852691 C1.22886551,2.83537677 2.88046075,1.20963173 4.91546203,1.20963173 L73.7319304,1.20963173 C75.7669317,1.20963173 77.418527,2.83537677 77.418527,4.83852691 L77.418527,55.6430595 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <polygon id="Stroke-3" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" points="6.14432754 44.7563739 72.5030649 44.7563739 72.5030649 6.04815864 6.14432754 6.04815864"></polygon>
+                            <polygon id="Stroke-5" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" points="31.9505032 33.8696884 30.7216377 33.8696884 30.7216377 16.9348442 31.9505032 16.9348442 47.9257548 25.4022663"></polygon>
+                            <path d="M4.91546203,50.8045326 L19.6618481,50.8045326" id="Stroke-6" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                            <path d="M27.0350412,50.8045326 L58.9855444,50.8045326" id="Stroke-7" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                            <path d="M61.4432754,50.8045326 L63.9010064,50.8045326" id="Stroke-8" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                            <path d="M66.3587374,50.8045326 L68.8164684,50.8045326" id="Stroke-9" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                            <path d="M71.2741994,50.8045326 L73.7319304,50.8045326" id="Stroke-10" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                            <path d="M23.3484446,48.3852691 L23.3484446,53.223796" id="Stroke-11" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
